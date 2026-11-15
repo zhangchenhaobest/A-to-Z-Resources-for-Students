@@ -1,3 +1,29 @@
+# A-to-Z-Resources-for-Students
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向学生的 AI 工程资源、路线图、工具与项目合集，涵盖 LLM、RAG、Agent、MCP 等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center"> A to Z Resources for Students </h1>
 
 <p align="center">
